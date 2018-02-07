@@ -29,4 +29,5 @@ translator에는 문서에 기여하신 분이라면 누구든지 translator에 
 - [3. Interfaces](handbook/3.%20interfaces.md)
 - [4. Classes](handbook/4.%20classes.md)
 - [5. Functions](handbook/5.%20functions.md)
+- [6. Generics](handbook/6.%20generics.md)
 
